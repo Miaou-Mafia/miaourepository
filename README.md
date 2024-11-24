@@ -57,6 +57,8 @@ graph TD;
 ## Planche d'ambiances visuelles
 ---
 
+![Moodboard](assets/moodboard-visuel.jpg)
+
 ---
 
 ## Planche d'ambiances sonores
@@ -152,10 +154,19 @@ graph TD;
 
 ## Scénarimage
 ---
-
+![Scénario 01](assets/scenario-01.jpg)
+![Scénario 02](assets/scenario-02.jpg)
+![Scénario 03](assets/scenario-03.jpg)
+![Scénario 04](assets/scenario-04.jpg)
+![Scénario 04a](assets/scenario-04a.jpg)
+![Scénario 04b](assets/scenario-04b.jpg)
+![Scénario 05](assets/scenario-05.jpg)
+![Scénario 06](assets/scenario-06.jpg)
 
 ## Plantation
 ---
+![Plantation éléments](assets/plantation-elements.jpg)
+![Studio](assets/plantation-studio.jpg)
 
 ## Simulation
 ---
