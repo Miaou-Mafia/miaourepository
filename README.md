@@ -227,11 +227,11 @@ graph TD;
 
 ### Logiciels fournis par le cégep
 
-| Logiciel  | Technique                                                     |
-| --------- | ------------------------------------------------------------- |
-| Pure Data | Modification des paramètres audio en réponse à des événements |
-| QLC+      | Création des scènes lumineuses                                |
-| Plugdata  | Modification de la couleur des lumières                       |
+| Logiciel       | Technique                                                     |
+| -------------- | ------------------------------------------------------------- |
+| Max Cycling 74 | Modification des paramètres audio en réponse à des événements |
+| QLC+           | Création des scènes lumineuses                                |
+| Plugdata       | Modification de la couleur des lumières                       |
 
 ### Mise en réseau et communication
 
@@ -250,3 +250,45 @@ graph TD;
 * Électricité
 * Connexion réseau
 * Espace pour le montage des dispositifs (extérieur du cyclorama)
+
+### Étude de faisabilité
+---
+
+#### Faisabilité technique
+
+##### Logiciels
+| Logiciel                                                                 | Matériaux | Interfaces utilisateurs |
+| ------------------------------------------------------------------------ | --------- | ----------------------- |
+| [Reaper Version 6.13](https://www.reaper.fm/download-old.php?ver=6x)     |           |                         |
+| [Arduino IDE 2.3.2](https://www.arduino.cc/en/software)                  |           |                         |
+| [Max Cycling 74 Version 8.6.2](https://cycling74.com/releases/max/8.6.2) |           |                         |
+| [QLC+ 4.13.1](https://www.qlcplus.org/forum/viewtopic.php?t=17417)       |           |                         |
+| [Plugdata v0.9.1](https://plugdata.org/download.html)                    |           |                         |
+
+#### Faisabilité économique
+
+| Logiciels                                                                  | Prix                           |
+| -------------------------------------------------------------------------- | ------------------------------ |
+| [Reaper Version 6.13](https://www.reaper.fm/download-old.php?ver=6x)       | Gratuit                        |
+| [Arduino IDE 2.3.2](https://www.arduino.cc/en/software)                    | Gratuit                        |
+| * [Max Cycling 74 Version 8.6.2](https://cycling74.com/releases/max/8.6.2) | (18,99$ par mois) x 2 = 37.98$ |
+| [QLC+ 4.13.1](https://www.qlcplus.org/forum/viewtopic.php?t=17417)         | Gratuit                        |
+| [Plugdata v0.9.1](https://plugdata.org/download.html)                      | Gratuit                        |
+| **Total**                                                                  | **37.98$**                     |
+
+
+*Payant si les artistes utilisent leur propre ordinateur personnel, ou possibilité d'utiliser gratuitement les ordinateurs fournis par TIM.
+
+| Matériaux                                                                                                                                                                                          | Prix                                 |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+| [ARDUINO UNO R3 ATMEGA328P BOARD](https://www.digikey.ca/en/products/detail/arduino/A000066/2784006)                                                                                               | 34.87$                               |
+| [YAGEO CFR-25JB-52-3M6](https://www.digikey.ca/en/products/detail/adafruit-industries-llc/1374/6238002)                                                                                            | 0.16$                                |
+| [Adafruit Industries LLC 1374](https://www.digikey.ca/en/products/detail/yageo/CFR-25JB-52-3M6/1467)                                                                                               | 9.43$                                |
+| [4 lanternes](https://www.ikea.com/ca/en/p/borrby-lantern-for-block-candle-indoor-outdoor-black-10156109/)                                                                                         | (9.99$ x 4) + 15%TPS et TVQ = 45.95$ |
+| [Vignes articielles](https://www.amazon.ca/-/fr/artificielles-d%C3%A9coration-feuilles-suspendues-guirlande/dp/B08BZ6CNVP?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3MSBQ5ESVX8AF) | 11,99$ + 15%TPS et TVQ = 13.78$      |
+
+#### Faisabilité opérationnelle
+
+#### Faisabilité temporelle
+
+#### Faisabilité légale et éthique
