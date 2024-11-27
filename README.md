@@ -301,7 +301,8 @@ graph TD;
 - 4 lotus
 
 
-#### Développement et maintenance
+##### Développement et maintenance
+Une quantité suplémentaire de plusieurs matériaux pourraient être nécessaire en cours de route du projet.
 
 - [Adafruit Industries LLC 1374](https://www.digikey.ca/en/products/detail/yageo/CFR-25JB-52-3M6/1467) 
 - [Fleur artificielle](https://www.ikea.com/ca/fr/p/smycka-fleur-artificielle-interieur-exterieur-plante-tropicale-bouquet-80562732/) 
@@ -313,7 +314,7 @@ graph TD;
 - [Vignes articielles](https://www.amazon.ca/-/fr/artificielles-d%C3%A9coration-feuilles-suspendues-guirlande/dp/B08BZ6CNVP?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3MSBQ5ESVX8AF)                                                    
 - Éléments de fixation
 
-#### Options de financement
+##### Options de financement
 
 - Bourse perspective Québec (5 membres de l'équipe)
 - Montant accordé pour le projet (Cégep)
