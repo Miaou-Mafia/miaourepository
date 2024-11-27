@@ -334,9 +334,41 @@ Une quantité suplémentaire de plusieurs matériaux pourraient être nécessair
 ###### Formations
 - Formations données par nos parents pour la construction
 
+##### Gestion du changement 
+..... Planifier comment l'intégration des nouvelles technologies affectera les opérations quotidiennes.  .....
+
+##### Support et maintenance 
+..... Prévoir les besoins en support technique et en maintenance à long terme.  .....
+
 #### Faisabilité temporelle
+##### Planification du projet
+Établir un calendrier réaliste en tenant compte des délais de développement, de test et de déploiement.
+
+##### Gestion des risques 
+Plusieurs risques potentiels pourraient retarder le projet.
+
+R1: Risque que la structure ne soit pas sécuritaire et donc fragile lors de l’expérience. 
+
+R2: Risque que la plaque de métal capte mal les interacteurs. 
+
+R3: Peu de connaissances sur la communication entre Arduino et QLC+ qui sont essentiels pour l’ambiance lumineuse. 
+
+R4: Peu de connaissances sur le capteur capacitif. 
+
+R5: Risque que les lumières soient trop chaudes pour le matériel des fleurs. 
+
+R6: Risque de bris de la structure circulaire lors de son installation au plafond. 
+
+R7: Peu de connaissances sur la communication entre Arduino et Max 8. 
+
+..... Prévoir des plans d'urgence. .....
 
 #### Faisabilité légale et éthique
+##### Conformité réglementaire
+S'assurer que le projet respecte les lois en vigueur, notamment en matière de propriété intellectuelle et de protection des données.
+
+##### Accessibilité
+Garantir que l'installation interactive est accessible à tous les utilisateur·rice·s, y compris les personnes en situation de handicap.
 
 ### Documentation des technologies explorées
 ---
