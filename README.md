@@ -257,13 +257,13 @@ graph TD;
 #### Faisabilité technique
 
 ##### Logiciels
-| Logiciel                                                                 | Matériaux | Interfaces utilisateurs |
-| ------------------------------------------------------------------------ | --------- | ----------------------- |
-| [Reaper Version 6.13](https://www.reaper.fm/download-old.php?ver=6x)     |           |                         |
-| [Arduino IDE 2.3.2](https://www.arduino.cc/en/software)                  |           |                         |
-| [Max Cycling 74 Version 8.6.2](https://cycling74.com/releases/max/8.6.2) |           |                         |
-| [QLC+ 4.13.1](https://www.qlcplus.org/forum/viewtopic.php?t=17417)       |           |                         |
-| [Plugdata v0.9.1](https://plugdata.org/download.html)                    |           |                         |
+| Logiciel                                                                 | Matériaux | Interfaces utilisateurs                                     | Protocoles de communication                                             |
+| ------------------------------------------------------------------------ | --------- | ----------------------------------------------------------- | ----------------------------------------------------------------------- |
+| [Reaper Version 6.13](https://www.reaper.fm/download-old.php?ver=6x)     |           | Plaque métallique sensible au toucher                       | [Protocole  DMX](https://www.qlcplus.org/)                              |
+| [Arduino IDE 2.3.2](https://www.arduino.cc/en/software)                  |           | Éléments lumineux (Lotus et Lanternes)                      | [Protocole MIDI](https://www.tobias-erichsen.de/software/loopmidi.html) |
+| [Max Cycling 74 Version 8.6.2](https://cycling74.com/releases/max/8.6.2) |           | [Systèmes sonores immersifs](https://www.genelec.com/8040b) |
+| [QLC+ 4.13.1](https://www.qlcplus.org/forum/viewtopic.php?t=17417)       |           | Technologie capacitive (Adafruits et Arduino UNO R3)        |
+| [Plugdata v0.9.1](https://plugdata.org/download.html)                    |           |                                                             |
 
 #### Faisabilité économique
 
@@ -292,3 +292,40 @@ graph TD;
 #### Faisabilité temporelle
 
 #### Faisabilité légale et éthique
+
+### Documentation des technologies explorées
+---
+
+#### Expérience utilisateur (UX)
+
+#### Évolutivité
+
+#### Sécurité
+
+#### Intégration multiplateforme
+
+### Documentation des technologies explorées
+---
+
+#### Agrégation de la documentation
+
+#### Exemples de code et d'utilisation
+
+- [How to Add Capacitive Sensing to Any Arduino Project](https://www.digikey.ca/en/maker/tutorials/2021/how-to-add-capacitive-sensing-to-any-arduino-project?msockid=1d6850aaf64a65b4178e445ff73e64f3)
+- [CapacitiveSensor Library](https://www.pjrc.com/teensy/td_libs_CapacitiveSensor.html)
+- [Make A Basic Capacitive Sensor For An Arduino Board With Electric Paint](https://www.bareconductive.com/blogs/resources/make-a-basic-capacitive-sensor-with-electric-paint-and-arduino)
+
+#### Documentation interne
+
+#### Partage des connaissances
+
+### Cas pratiques
+---
+
+#### Techniquement 
+
+#### Économiquement
+
+#### Opérationnellement
+
+#### Documentation
