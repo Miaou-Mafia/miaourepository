@@ -169,7 +169,10 @@ graph TD;
 ![Studio](assets/plantation-studio.jpg)
 
 ## Simulation
----
+![vue_cote_02 1](https://github.com/user-attachments/assets/60011e10-b004-40ea-b28f-5586596cd676)
+![vue_cote 1](https://github.com/user-attachments/assets/4a169cdd-96f5-4e62-98f0-458871891381)
+![vue_face 1](https://github.com/user-attachments/assets/a2ae02f7-6931-4c21-9297-0d50afd72e7b)
+![structure 1](https://github.com/user-attachments/assets/2b9d112a-8599-447b-a95a-1b5ec460c540)
 
 ## Devis Technique
 ---
