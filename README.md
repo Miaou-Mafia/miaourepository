@@ -259,13 +259,13 @@ graph TD;
 
 ##### Logiciels
 
-| Logiciel                                                                 | Matériaux | Interfaces utilisateurs                                     | Protocoles de communication                                             |
-| ------------------------------------------------------------------------ | --------- | ----------------------------------------------------------- | ----------------------------------------------------------------------- |
-| [Reaper Version 6.13](https://www.reaper.fm/download-old.php?ver=6x)     |           | Plaque métallique sensible au toucher                       | [Protocole  DMX](https://www.qlcplus.org/)                              |
-| [Arduino IDE 2.3.2](https://www.arduino.cc/en/software)                  |           | Éléments lumineux (Lotus et Lanternes)                      | [Protocole MIDI](https://www.tobias-erichsen.de/software/loopmidi.html) |
-| [Max Cycling 74 Version 8.6.2](https://cycling74.com/releases/max/8.6.2) |           | [Systèmes sonores immersifs](https://www.genelec.com/8040b) |
-| [QLC+ 4.13.1](https://www.qlcplus.org/forum/viewtopic.php?t=17417)       |           | Technologie capacitive (Adafruits et Arduino UNO R3)        |
-| [Plugdata v0.9.1](https://plugdata.org/download.html)                    |           |                                                             |
+| Logiciel                                                                 | Matériaux                    | Interfaces utilisateurs                                     | Protocoles de communication                                             |
+| ------------------------------------------------------------------------ | ---------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------------------- |
+| [Reaper Version 6.13](https://www.reaper.fm/download-old.php?ver=6x)     | Arduino A000066              | Plaque métallique sensible au toucher                       | [Protocole  DMX](https://www.qlcplus.org/)                              |
+| [Arduino IDE 2.3.2](https://www.arduino.cc/en/software)                  | YAGEO CFR-25JB-52-3M6        | Éléments lumineux (Lotus et Lanternes)                      | [Protocole MIDI](https://www.tobias-erichsen.de/software/loopmidi.html) |
+| [Max Cycling 74 Version 8.6.2](https://cycling74.com/releases/max/8.6.2) | Adafruit Industries LLC 1374 | [Systèmes sonores immersifs](https://www.genelec.com/8040b) |
+| [QLC+ 4.13.1](https://www.qlcplus.org/forum/viewtopic.php?t=17417)       | 1 plaque acier inoxydable    | Technologie capacitive (Adafruits et Arduino UNO R3)        |
+| [Plugdata v0.9.1](https://plugdata.org/download.html)                    |                              | Régulateur de tension                                       |
 
 #### Faisabilité économique
 
@@ -300,9 +300,9 @@ graph TD;
 - 1 plaque acier inoxydable  
 - 4 lotus
 
-
 ##### Développement et maintenance
-Une quantité suplémentaire de plusieurs matériaux pourraient être nécessaire en cours de route du projet.
+
+Une quantité suplémentaire de plusieurs matériaux pourraient être nécessaire en cours de route du projet:
 
 - [Adafruit Industries LLC 1374](https://www.digikey.ca/en/products/detail/yageo/CFR-25JB-52-3M6/1467) 
 - [Fleur artificielle](https://www.ikea.com/ca/fr/p/smycka-fleur-artificielle-interieur-exterieur-plante-tropicale-bouquet-80562732/) 
@@ -314,77 +314,146 @@ Une quantité suplémentaire de plusieurs matériaux pourraient être nécessair
 - [Vignes articielles](https://www.amazon.ca/-/fr/artificielles-d%C3%A9coration-feuilles-suspendues-guirlande/dp/B08BZ6CNVP?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3MSBQ5ESVX8AF)                                                    
 - Éléments de fixation
 
-##### Options de financement
+#### Options de financement
 
-- Bourse perspective Québec (5 membres de l'équipe)
-- Montant accordé pour le projet (Cégep)
+##### Sources potentielles de financement
+
+- **Bourse Perspective Québec**
+- **Montant accordé par le Cégep** : Fonds dédiés spécifiquement pour couvrir les coûts du projet, incluant les matériaux, équipements et autres besoins essentiels.
 
 #### Faisabilité opérationnelle
 
 ##### Ressources humaines
 
-###### Compétences nécéssaires au sein de l'équipe
+- **Maîtrise du logiciel Max (Cycling '74)** : Essentiel pour gérer les interactions sonores dans l'installation.
+- **Connaissance des protocoles DMX et MIDI** : Nécessaire pour synchroniser les lumières et les éléments sonores.
+- **Expertise avec QLC+** : Indispensable pour contrôler les effets lumineux et leur coordination avec les capteurs.
+- **Compétence en programmation (C/C++)** : Utile pour développer et optimiser les fonctionnalités des capteurs et du système Arduino.
+- **Connaissances en construction** : Primordial pour l'assemblage sécurisé et la maintenance de la structure physique.
 
-- Compétence avec le logiciel Max Cycling 74
-- Comptétence avec les protocoles (DMX ET MIDI)
-- Comptétence avec OLC+ 
-- Comptétence en programmation (C/C++)
-- Comptétence en construction
+##### Gestion du changement
 
-###### Formations
-- Formations données par nos parents pour la construction
+- **Intégration des nouvelles technologies** : Planifier comment l'introduction des capteurs capacitifs et des nouveaux logiciels (Max, QLC+) affectera les opérations quotidiennes.
+- **Accompagnement des membres de l’équipe** : Offrir un soutien pour l’adoption des outils et procédures.
 
-##### Gestion du changement 
-..... Planifier comment l'intégration des nouvelles technologies affectera les opérations quotidiennes.  .....
+##### Support et maintenance
 
-##### Support et maintenance 
-..... Prévoir les besoins en support technique et en maintenance à long terme.  .....
+- **Prévoir les besoins à long terme** : Établir un plan pour le support technique et la maintenance régulière des composants interactifs (capteurs, LEDs, systèmes audio).
+- **Calendrier de maintenance préventive** : Créer un programme d'entretien pour vérifier régulièrement l'état des capteurs et systèmes lumineux.
+- **Documentation technique** : Maintenir une documentation claire et accessible pour faciliter les réparations et mises à jour futures.
 
 #### Faisabilité temporelle
+
 ##### Planification du projet
-Établir un calendrier réaliste en tenant compte des délais de développement, de test et de déploiement.
+
+##### Calendrier des cas de test
+
+###### Cas de test 1.1 : Lumière d’accueil des lanternes et lotus lumineux (Éclairage d’ambiance initial)
+**Semaine 1 – 2**
+
+###### Cas de test 1.2 : Sons d’accueil des lanternes et lotus lumineux (Musique d’ambiance initiale)
+**Semaine 1 – 2**
+
+###### Cas de test 2.1 : Réponse lumineuse au toucher de la plaque
+**Semaine 3 – 4**
+
+###### Cas de test 2.2 : Réponse sonore au toucher de la plaque métallique
+**Semaine 3 – 4**
+
+###### Cas de test 3.1 : Réponse continue des lumières pendant un contact prolongé avec la plaque
+**Semaine 4 – 5**
+
+###### Cas de test 3.2 : Réponse continue des effets sonores pendant un contact prolongé avec la plaque
+**Semaine 4 – 5**
+
+###### Cas de test 4.1 : Lumière après relâchement de la plaque
+**Semaine 5**
+
+###### Cas de test 4.2 : Réponse sonore après le relâchement de la plaque
+**Semaine 5**
+
+###### Cas de test 5.1 : Réponse lumineuse aux contacts multiples
+**Semaine 6**
+
+###### Cas de test 5.2 : Réponse sonore aux contacts multiples
+**Semaine 6**
 
 ##### Gestion des risques 
-Plusieurs risques potentiels pourraient retarder le projet.
 
-R1: Risque que la structure ne soit pas sécuritaire et donc fragile lors de l’expérience. 
+##### Risques techniques
 
-R2: Risque que la plaque de métal capte mal les interacteurs. 
+- **Structure non sécurisée** : 
+  - La structure pourrait manquer de solidité, entraînant une fragilité durant l’expérience et compromettant la stabilité de l’installation.  
+  - **Plan d'urgence** : Réaliser des tests de charge détaillés et renforcer les points d’attache au plafond.
 
-R3: Peu de connaissances sur la communication entre Arduino et QLC+ qui sont essentiels pour l’ambiance lumineuse. 
+- **Détection incorrecte par la plaque métallique** : 
+  - La plaque métallique utilisée pour détecter les interactions pourrait ne pas capter correctement les changements de conductivité des mains, entraînant un dysfonctionnement de l'interactivité lumineuse et sonore.  
+  - **Plan d'urgence** : Tester et calibrer la plaque avant l’installation finale avec différents scénarios d’interaction utilisateur.
 
-R4: Peu de connaissances sur le capteur capacitif. 
+- **Chaleur excessive des LEDs** : 
+  - Les ampoules LED pourraient émettre une chaleur excessive, endommageant les fleurs artificielles et affectant l'esthétique ainsi que la durabilité de l'installation.  
+  - **Plan d'urgence** : Utiliser des LEDs basse consommation et prévoir une isolation thermique autour des fleurs artificielles.
 
-R5: Risque que les lumières soient trop chaudes pour le matériel des fleurs. 
+- **Bris de la structure circulaire lors de l’installation** : 
+  - La structure circulaire pourrait être endommagée ou mal alignée durant son installation au plafond.  
+  - **Plan d'urgence** : Prévoir des outils de levage adaptés et renforcer la structure avec des matériaux résistants.
 
-R6: Risque de bris de la structure circulaire lors de son installation au plafond. 
+##### Risques liés aux connaissances techniques
 
-R7: Peu de connaissances sur la communication entre Arduino et Max 8. 
+- **Communication Arduino et QLC+** : 
+  - Un manque de connaissances sur l’intégration d’Arduino avec QLC+, essentiel pour la gestion des effets lumineux, pourrait ralentir le projet.  
+  - **Plan d'urgence** : Former l’équipe sur la configuration Arduino-QLC+ à l’aide de tutoriels et de guides spécialisés.
 
-..... Prévoir des plans d'urgence. .....
+- **Précision du capteur capacitif** : 
+  - Une compréhension limitée du fonctionnement du capteur capacitif pourrait réduire la précision de détection et limiter son intégration au système.  
+  - **Plan d'urgence** : Mener des tests approfondis sur le capteur et consulter des experts en électronique pour des ajustements.
+
+- **Communication Arduino et Max 8** : 
+  - Un manque de connaissances approfondies sur l’interconnexion entre Arduino et Max 8 pourrait entraîner des problèmes d’intégration et de synchronisation des éléments interactifs et sonores.  
+  - **Plan d'urgence** : Programmer des sessions d’apprentissage spécifiques sur Max 8 et réaliser un prototype de test avant l’installation.
+
+##### Risques opérationnels
+
+- **Retards dans le projet** : 
+  - Identifications tardives des risques ou manques de coordination pourraient retarder l’avancement global du projet.  
+  - **Plan d'urgence** : Mettre en place un calendrier détaillé avec des points de contrôle hebdomadaires pour suivre l’avancement et anticiper les retards.
 
 #### Faisabilité légale et éthique
+............
 ##### Conformité réglementaire
-S'assurer que le projet respecte les lois en vigueur, notamment en matière de propriété intellectuelle et de protection des données.
-
+............
 ##### Accessibilité
-Garantir que l'installation interactive est accessible à tous les utilisateur·rice·s, y compris les personnes en situation de handicap.
+............
 
-### Documentation des technologies explorées
+### Considérations spécifiques aux technologies interactives
 ---
 
 #### Expérience utilisateur (UX)
 
+- **Interaction tactile directe** : Les utilisateurs déclenchent des changements sonores et lumineux par un toucher précis sur la plaque métallique. Ce mécanisme crée une connexion immédiate entre l'utilisateur et l'installation.
+- **Retour en temps réel** : Les effets sonores et lumineux se produisent simultanément et sans latence, offrant une expérience fluide et réactive.
+- **Conception intuitive** : L'interface (plaque métallique) est simple à comprendre, permettant à l'utilisateur·rice de se concentrer entièrement sur l'expérience interactive, sans distraction technique.
+- **Accessibilité et immersion** : L'interactivité sensorielle plonge les utilisateurs dans une expérience immersive, ludique et engageante, favorisant la découverte active.
+
 #### Évolutivité
+
+- **Ajout de haut-parleurs supplémentaires** : De nouveaux haut-parleurs peuvent être intégrés pour étendre la couverture sonore et améliorer l'immersion sans perturber l'installation audio existante.
+- **Ajout d'une projection** : Un projecteur peut être installé pour diffuser des animations interactives qui réagissent aux actions des utilisateurs sur la plaque métallique. Cette projection enrichit l'expérience visuelle et élargit l'espace interactif.
+- **Mise à jour des effets lumineux** : De nouveaux modes d’éclairage peuvent être programmés pour s'adapter à l'heure de la journée ou aux saisons, enrichissant ainsi l’expérience visuelle tout en maintenant l’aspect sonore initial.
 
 #### Sécurité
 
-#### Intégration multiplateforme
+- **Mises à jour régulières** : Les logiciels et dispositifs connectés sont mis à jour régulièrement afin de corriger les éventuelles vulnérabilités de sécurité.
+- **Audits de sécurité** : Des audits réguliers sont réalisés pour identifier et résoudre toute faille, garantissant une protection continue contre les cybermenaces.
 
 ### Documentation des technologies explorées
 ---
 
 #### Agrégation de la documentation
+
+- [Adafruit Industries LLC 1374](https://www.yageo.com/upload/media/product/app/datasheet/lr/yageo-cfr_datasheet.pdf)
+- [ARDUINO UNO R3 ATMEGA328P BOARD](https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/2262/A000066_Web.pdf)
+- [BOARD YAGEO CFR-25JB-52-3M6](https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/5011/1374_Web.pdf)
 
 #### Exemples de code et d'utilisation
 
@@ -392,17 +461,56 @@ Garantir que l'installation interactive est accessible à tous les utilisateur·
 - [CapacitiveSensor Library](https://www.pjrc.com/teensy/td_libs_CapacitiveSensor.html)
 - [Make A Basic Capacitive Sensor For An Arduino Board With Electric Paint](https://www.bareconductive.com/blogs/resources/make-a-basic-capacitive-sensor-with-electric-paint-and-arduino)
 
-#### Documentation interne
-
 #### Partage des connaissances
 
-### Cas pratiques
+##### Outils collaboratifs pour l'historique du projet
+- [Trello Luminatura](https://trello.com/b/GV0G0usw/luminatura) : Suivi des tâches, idées et évolutions du projet, permettant une collaboration fluide entre les membres de l'équipe.
+
+##### Réunions régulières
+- **Fréquence :** Tous les vendredis à 17 h.
+- **Objectif :** Faire le point sur l’avancement des tâches, partager les découvertes techniques et ajuster les priorités pour la semaine suivante.
+
+##### Formation continue
+- **Exploration technique :** Étude approfondie des documentations liées à la capacitance et des matériaux utilisés pour optimiser l’interactivité.
+- **Temps dédié :** Durant les périodes libres, chaque membre est encouragé à approfondir ses connaissances et à expérimenter des idées innovantes pour enrichir le projet.
+
+
+### Cas pratiques de Luminatura  
 ---
 
-#### Techniquement 
+**Luminatura** est une installation interactive mise en place dans le grand studio du Collège Montmorency. Elle permet aux étudiants et visiteurs d’interagir avec un système lumineux et sonore grâce à un capteur capacitif. En touchant une surface spécifique, comme une plaque métallique connectée au capteur, des effets visuels et sonores se déclenchent en temps réel, créant une expérience immersive et engageante.  
 
-#### Économiquement
+#### Techniquement  
 
-#### Opérationnellement
+- **Intégration du capteur capacitif :** Tester la compatibilité du capteur capacitif avec les systèmes lumineux et sonores existants pour assurer une détection précise et fiable des interactions.  
+- **Calibration du capteur :** Régler la sensibilité du capteur capacitif afin de garantir une activation cohérente tout en évitant les fausses détections.  
+- **Synchronisation des effets :** Configurer le système pour que les effets lumineux et sonores se déclenchent simultanément lors de l’activation du capteur capacitif.  
+- **Stabilité et durabilité :** Effectuer des tests pour s’assurer que le capteur peut fonctionner efficacement sous une utilisation répétée et prolongée.  
+- **Sécurité électrique :** Vérifier que l’installation respecte les normes de sécurité électrique pour garantir une expérience sans risque pour les utilisateurs.  
+
+#### Économiquement  
+
+- **Coût du capteur capacitif :** Évaluer les dépenses liées à l’achat et à l’installation du capteur capacitif.  
+- **Optimisation des ressources existantes :** Réutiliser les équipements disponibles, comme les LEDs et les systèmes audio, pour réduire les coûts d’installation.  
+- **Efficacité énergétique :** Identifier des composants économes en énergie pour minimiser les dépenses d’exploitation.  
+- **Potentiel de financement :** Explorer des opportunités de subventions ou partenariats pour soutenir le projet, comme la *Bourse Perspective Québec*.  
+- **Retour sur investissement :** Estimer comment cette installation pourrait accroître l’attractivité et la visibilité du studio pour des projets futurs.  
+
+#### Opérationnellement  
+
+- **Maintenance préventive :** Mettre en place un calendrier régulier pour l’entretien du capteur capacitif et des équipements associés, comme les LEDs et les connexions électriques.  
+- **Plan de remplacement :** Élaborer une stratégie pour remplacer rapidement les équipements défectueux afin de minimiser les interruptions.  
+- **Simplicité d’utilisation :** Veiller à ce que l’installation soit intuitive pour les utilisateurs, avec un retour clair sur les interactions.  
+- **Formation :** Prévoir une formation pour les opérateurs en charge de superviser et maintenir le système.  
+- **Accessibilité :** S’assurer que l’installation est accessible à tous les publics, y compris les personnes à mobilité réduite.  
 
 #### Documentation
+
+##### Agrégation des ressources 
+
+- [Documentation Reaper](https://www.reaper.fm/userguide.php)
+- [Documentation Plugdata](https://plugdata.org/documentation.html)
+- [Documentation QLC+](https://docs.qlcplus.org/v4)
+- [Documentation Arduino](https://docs.arduino.cc/)
+- [Documentation LoopMidi](https://www.tobias-erichsen.de/software.html)
+
