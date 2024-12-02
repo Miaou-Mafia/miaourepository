@@ -490,7 +490,7 @@ Une quantité supplémentaire de plusieurs matériaux pourrait être nécessaire
 
 #### Partage des connaissances
 
-##### Outils collaboratifs pour l'historique du projet
+##### Outil collaboratif pour l'historique du projet
 - [Trello Luminatura](https://trello.com/b/GV0G0usw/luminatura) : Suivi des tâches, idées et évolutions du projet, permettant une collaboration fluide entre les membres de l'équipe.
 
 ##### Réunions régulières
