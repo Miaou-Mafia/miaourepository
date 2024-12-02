@@ -423,11 +423,15 @@ Une quantité suplémentaire de plusieurs matériaux pourraient être nécessair
   - **Plan d'urgence** : Mettre en place un calendrier détaillé avec des points de contrôle hebdomadaires pour suivre l’avancement et anticiper les retards.
 
 #### Faisabilité légale et éthique
-............
+
 ##### Conformité réglementaire
-............
+- **Sécurisation des objets suspendus au plafond** : Tous les objets suspendus doivent être sécurisée afin d'éviter les accidents. Il est aussi important d'utiliser des matériaux légers que les tubes du haut peuvent bien supporter, comme l'aluminium (pour la plaque du haut), le papier (pour les lotus) et le polycarbonate (pour les lanternes). Au besoin, faire une vérification régulière des installations.
+- **Feu** : Pour prévenir tout risque d’incendie, il est important d’utiliser des ampoules à LED, qui produisent moins de chaleur que les ampoules traditionnelles. Il faut vérifier régulièrement l’état des ampoules et des câblages électriques afin de s’assurer qu’il n’y a pas de risques d'échauffement excessif.
+- **Électrocution** : Pour se protéger contre les risques d’électrocution, il est primordial d'utiliser des câbles et des prises adaptées à l'environnement d'installation. S’assurer que toutes les connexions électriques sont correctement isolées et que les interrupteurs sont accessibles mais protégés contre tout contact accidentel
+
 ##### Accessibilité
-............
+- **Handicap physique** : La plaque métallique devrait être installée à une hauteur qui permet à une personne en fauteuil roulant de l'atteindre facilement, généralement à une hauteur entre 85 et 100 cm du sol. L’espace autour de la plaque ou dispositif doit être dégagé, permettant ainsi une circulation aisée en fauteuil roulant. 
+- **Épilepsie** : Pour éviter de provoquer des crises d'épilepsie chez les personnes sensibles, les ampoules doivent changer de lumières avec des transitions douces.
 
 ### Considérations spécifiques aux technologies interactives
 ---
