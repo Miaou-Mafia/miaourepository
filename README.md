@@ -332,9 +332,9 @@ Une quantité supplémentaire de plusieurs matériaux pourrait être nécessaire
 - [Mousse verte artificielle](https://canada.michaels.com/product/moss-table-runner-by-ashland-10135021?com_id=pdp_AlsoLike&path=youMayAlsoLike)   
 - Ampoules LED 
 - [Plaque ronde en bois 1/2 x 32" x 32"](https://patrickmorin.com/fr/coupe-de-materiaux)
-- Tissus lotus
-- [4 rideaux/voilages blanc ](https://www.ikea.com/ca/fr/p/teresia-voilage-2-panneaux-blanc-90232331/)    
-- [Vignes articielles](https://www.amazon.ca/-/fr/artificielles-d%C3%A9coration-feuilles-suspendues-guirlande/dp/B08BZ6CNVP?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3MSBQ5ESVX8AF)                                                    
+- Tissus pour les lotus
+- [4 rideaux/voilages blancs ](https://www.ikea.com/ca/fr/p/teresia-voilage-2-panneaux-blanc-90232331/)    
+- [Vignes artificielles](https://www.amazon.ca/-/fr/artificielles-d%C3%A9coration-feuilles-suspendues-guirlande/dp/B08BZ6CNVP?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3MSBQ5ESVX8AF)                                                    
 - Éléments de fixation
 
 #### Options de financement
@@ -415,10 +415,10 @@ Une quantité supplémentaire de plusieurs matériaux pourrait être nécessaire
 
 - **Chaleur excessive des LEDs** : 
   - Les ampoules LED pourraient émettre une chaleur excessive, endommageant les fleurs artificielles et affectant l'esthétique ainsi que la durabilité de l'installation.  
-  - **Plan d'urgence** : Utiliser des LEDs basse consommation et prévoir une isolation thermique autour des fleurs artificielles.
+  - **Plan d'urgence** : Utiliser des ampoules LED basse consommation et prévoir une isolation thermique autour des fleurs artificielles.
 
-- **Bris de la structure circulaire lors de l’installation** : 
-  - La structure circulaire pourrait être endommagée ou mal alignée durant son installation au plafond.  
+- **Bris de la structure octogonale lors de l’installation** : 
+  - La structure octogonale pourrait être endommagée ou mal alignée durant son installation au plafond.  
   - **Plan d'urgence** : Prévoir des outils de levage adaptés et renforcer la structure avec des matériaux résistants.
 
 ##### Risques liés aux connaissances techniques
@@ -444,8 +444,8 @@ Une quantité supplémentaire de plusieurs matériaux pourrait être nécessaire
 #### Faisabilité légale et éthique
 
 ##### Conformité réglementaire
-- **Sécurisation des objets suspendus au plafond** : Tous les objets suspendus doivent être sécurisée afin d'éviter les accidents. Il est aussi important d'utiliser des matériaux légers que les tubes du haut peuvent bien supporter, comme l'aluminium (pour la plaque du haut), le papier (pour les lotus) et le polycarbonate (pour les lanternes). Au besoin, faire une vérification régulière des installations.
-- **Feu** : Pour prévenir tout risque d’incendie, il est important d’utiliser des ampoules à LED, qui produisent moins de chaleur que les ampoules traditionnelles. Il faut vérifier régulièrement l’état des ampoules et des câblages électriques afin de s’assurer qu’il n’y a pas de risques d'échauffement excessif.
+- **Sécurisation des objets suspendus au plafond** : Tous les objets suspendus doivent être sécurisés afin d'éviter les accidents. Il est aussi important d'utiliser des matériaux légers que les tubes au plafond peuvent bien supporter, comme l'aluminium (pour la plaque du haut), le papier (pour les lotus) et le polycarbonate (pour les lanternes). Au besoin, faire une vérification régulière des installations.
+- **Feu** : Pour prévenir tout risque d’incendie, il est important d’utiliser des ampoules LED, qui produisent moins de chaleur que les ampoules traditionnelles. Il faut vérifier régulièrement l’état des ampoules et des câblages électriques afin de s’assurer qu’il n’y a pas de risques de surchauffe.
 - **Électrocution** : Pour se protéger contre les risques d’électrocution, il est primordial d'utiliser des câbles et des prises adaptées à l'environnement d'installation. S’assurer que toutes les connexions électriques sont correctement isolées et que les interrupteurs sont accessibles mais protégés contre tout contact accidentel
 
 ##### Accessibilité
