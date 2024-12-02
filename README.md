@@ -110,7 +110,7 @@ graph TD;
 %% Composants
     Ordinateur[Contrôle central - Ordinateur]
     DMX[USB DMX]
-    Lumiere[Lumière]
+    Lumieres[Lumières]
     Ampoule[Ampoules]
     CarteSon[Carte de son]
     HautParleur[Haut-parleurs]
@@ -126,14 +126,14 @@ graph TD;
 
     subgraph Plafond
         DMX
-        Lumiere
+        Lumieres
         Ampoule 
         CarteSon
         HautParleur
         SortieAudio
     end
 
-    subgraph GrandStudio
+    subgraph Grand Studio
         PlaqueMetalique
         ArduinoA000066
     end
@@ -143,10 +143,10 @@ graph TD;
     Ordinateur --> CarteSon
     Ordinateur -.-> PlaqueMetalique
     PlaqueMetalique -->|Capteur de capacitance Adafruit Industries LLC 1374| ArduinoA000066
-    ArduinoA000066 -->|Contrôle Lumière| Lumiere
+    ArduinoA000066 -->|Contrôle Lumière| Lumieres
     ArduinoA000066 -->|Contrôle Son| CarteSon
-    DMX -->|Câble DMX| Lumiere
-    Lumiere -->|Câble électrique| Ampoule
+    DMX -->|Câble DMX| Lumieres
+    Lumieres -->|Câble électrique| Ampoule
     CarteSon -->|Câble audio| HautParleur
     HautParleur -->|Câble audio| SortieAudio
 
