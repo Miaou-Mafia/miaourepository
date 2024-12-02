@@ -175,6 +175,17 @@ graph TD;
 ![vue_face 1](https://github.com/user-attachments/assets/a2ae02f7-6931-4c21-9297-0d50afd72e7b)
 ![structure 1](https://github.com/user-attachments/assets/2b9d112a-8599-447b-a95a-1b5ec460c540)
 
+## Distribution des responsabilités
+| Tâches                   | Membre(s) de l'équipe |
+| ------------------------ | ------------------ |
+| Création sonore          | Audrey D.          |
+| Assemblage des lotus      | Camilia B. et Justine R. |
+| Programmation de la capacitance | Ihab M., Prethiah R. et Justine R |
+| Assemblage des lanternes | Camilia B. et Audrey D. |
+| Intégration des lumières | Ihab M., Prethiah R. et Justine R. |
+| Décorations | Camilia B. et Audrey D. |
+| Construction de la plaque métallique | Ihab M. et Prethiah R. |
+
 ## Devis Technique
 ---
 ### Équipements et matériaux
@@ -244,18 +255,6 @@ graph TD;
 | ------------------------ | -------- | ------------------- |
 | Protocole MIDI           | LoopMidi | QLC+ et Plugdata    |
 | Protocole DMX            | QLC+     | Lumière et logiciel |
-
-### Distribution des responsabilités
-
-| Tâches                   | Membre(s) de l'équipe |
-| ------------------------ | ------------------ |
-| Création sonore          | Audrey D.          |
-| Assemblage des lotus      | Camilia B. et Justine R. |
-| Programmation de la capacitance | Ihab M., Prethiah R. et Justine R |
-| Assemblage des lanternes | Camilia B. et Audrey D. |
-| Intégration des lumières | Ihab M., Prethiah R. et Justine R. |
-| Décorations | Camilia B. et Audrey D. |
-| Construction de la plaque métallique | Ihab M. et Prethiah R. |
 
 ### Étude de faisabilité
 ---
