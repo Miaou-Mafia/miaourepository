@@ -186,6 +186,25 @@ graph TD;
 | Décorations | Camilia B. et Audrey D. |
 | Construction de la plaque métallique | Ihab M. et Prethiah R. |
 
+##  Échéancier
+
+```mermaid
+gantt
+    title Échéancier expérience multimédia interactive
+    dateFormat  YYYY-MM-DD
+    section Production
+    Assemblage des lumières      :a1, 2025-01-21, 7w
+    Création des médias      :a2, 2025-01-21, 7w
+    Construction de la plaque métallique et programmation :a3, 2025-01-21, 7w
+    Installation technique       :a4, 2025-01-21, 7w
+    section Tests et ajustements
+    Tests et ajustements finaux  :a5, 2025-03-10, 1w
+    section Diffusion
+    Semaine de diffusion         :a6, 2025-03-17, 1w
+    section Démontage
+    Démontage                    :a7, after a7, 1d
+```
+
 ## Devis Technique
 ---
 ### Équipements et matériaux
