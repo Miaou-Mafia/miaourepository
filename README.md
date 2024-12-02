@@ -245,13 +245,17 @@ graph TD;
 | Protocole MIDI           | LoopMidi | QLC+ et Plugdata    |
 | Protocole DMX            | QLC+     | Lumière et logiciel |
 
-### Répartition des responsabilités
----
-#### Préparation des espaces
+### Distribution des responsabilités
 
-* Électricité
-* Connexion réseau
-* Espace pour le montage des dispositifs (extérieur du cyclorama)
+| Tâches                   | Membre(s) de l'équipe |
+| ------------------------ | ------------------ |
+| Création sonore          | Audrey D.          |
+| Assemblage des lotus      | Camilia B. et Justine R. |
+| Programmation de la capacitance | Ihab M., Prethiah R. et Justine R |
+| Assemblage des lanternes | Camilia B. et Audrey D. |
+| Intégration des lumières | Ihab M., Prethiah R. et Justine R. |
+| Décorations | Camilia B. et Audrey D. |
+| Construction de la plaque métallique | Ihab M. et Prethiah R. |
 
 ### Étude de faisabilité
 ---
