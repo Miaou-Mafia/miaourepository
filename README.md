@@ -214,14 +214,14 @@ gantt
 - 15-20 vignes artificielles en plastique 
 - 8 ampoules LED 
 - Mousse verte artificielle
-- 4 rideaux/voilages blanc 
+- 4 rideaux/voilages blancs 
 - plante artificielle/feuilles (quantité à déterminer, selon l’usage prévu)
-- 1 plaque acier inoxydable 
+- 1 plaque en acier inoxydable 
 - 4 lanternes 
 - 4 lotus
 - Régulateur de tension
 - Éléments de fixation
-- Plaque ronde en bois (épaisseur 1.5mm)
+- Plaque ronde en bois (épaisseur 1,5mm)
 - 1 Plaque isolante
   
 #### Capteurs et évaluation
@@ -282,12 +282,12 @@ gantt
 
 ##### Logiciels
 
-| Logiciel                                                                 | Matériaux                    | Interfaces utilisateurs                                     | Protocoles de communication                                             |
+| Logiciels                                                                 | Matériaux                    | Interfaces utilisateurs                                     | Protocoles de communication                                             |
 | ------------------------------------------------------------------------ | ---------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------------------- |
 | [Reaper Version 6.13](https://www.reaper.fm/download-old.php?ver=6x)     | Arduino A000066              | Plaque métallique sensible au toucher                       | [Protocole  DMX](https://www.qlcplus.org/)                              |
 | [Arduino IDE 2.3.2](https://www.arduino.cc/en/software)                  | YAGEO CFR-25JB-52-3M6        | Éléments lumineux (Lotus et Lanternes)                      | [Protocole MIDI](https://www.tobias-erichsen.de/software/loopmidi.html) |
 | [Max Cycling 74 Version 8.6.2](https://cycling74.com/releases/max/8.6.2) | Adafruit Industries LLC 1374 | [Systèmes sonores immersifs](https://www.genelec.com/8040b) |
-| [QLC+ 4.13.1](https://www.qlcplus.org/forum/viewtopic.php?t=17417)       | 1 plaque acier inoxydable    | Technologie capacitive (Adafruits et Arduino UNO R3)        |
+| [QLC+ 4.13.1](https://www.qlcplus.org/forum/viewtopic.php?t=17417)       | 1 plaque en acier inoxydable    | Technologie capacitive (Adafruits et Arduino UNO R3)        |
 | [Plugdata v0.9.1](https://plugdata.org/download.html)                    |                              | Régulateur de tension                                       |
 
 #### Faisabilité économique
@@ -325,7 +325,7 @@ gantt
 
 ##### Développement et maintenance
 
-Une quantité suplémentaire de plusieurs matériaux pourraient être nécessaire en cours de route du projet:
+Une quantité supplémentaire de plusieurs matériaux pourrait être nécessaire en cours de route du projet:
 
 - [Adafruit Industries LLC 1374](https://www.digikey.ca/en/products/detail/yageo/CFR-25JB-52-3M6/1467) 
 - [Fleur artificielle](https://www.ikea.com/ca/fr/p/smycka-fleur-artificielle-interieur-exterieur-plante-tropicale-bouquet-80562732/) 
