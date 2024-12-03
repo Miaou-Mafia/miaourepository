@@ -321,6 +321,7 @@ gantt
 | [8 Ampoules LEDs 9W DMX512](https://www.aliexpress.com/item/32626019053.html) | (23.79$ x 8) + 15%TPS et TVQ = 218.86$       |
 | [DMX 512 LED Transmitter](https://www.aliexpress.com/item/32626019053.html) | 18.99$ + 15%TPS et TVQ = 21.84$      |
 | [8 Rallonges de lanterne à suspendre 6m](https://www.amazon.ca/dp/B0BGN6K3ZD?sp_csd=d2lkZ2V0TmFtZT1zcF9ocXBfc2hhcmVk&th=1) | (15.99$ x 8) + 15%TPS et TVQ = 147.12$      |
+| **Total** | 739.41$ |
 
 - 1 plaque acier inoxydable  
 - 4 lotus
