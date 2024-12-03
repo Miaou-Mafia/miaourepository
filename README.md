@@ -344,7 +344,7 @@ Une quantité supplémentaire de plusieurs matériaux pourrait être nécessaire
 
 ##### Sources potentielles de financement
 
-- **Bourse Perspective Québec**
+- **Bourse Perspective Québec** (**1500$** pour chaque membre d'équipe)
 - **Montant accordé par le Cégep** : Fonds dédiés spécifiquement pour couvrir les coûts du projet, incluant les matériaux, équipements et autres besoins essentiels (autour de **500$**)
 
 #### Faisabilité opérationnelle
