@@ -314,14 +314,14 @@ gantt
 | [YAGEO CFR-25JB-52-3M6](https://www.digikey.ca/en/products/detail/adafruit-industries-llc/1374/6238002)                                                                                                                                               | 0.16$                                 |
 | [Adafruit Industries LLC 1374](https://www.digikey.ca/en/products/detail/yageo/CFR-25JB-52-3M6/1467)                                                                                                                                                  | 9.43$                                 |
 | [4 lanternes](https://www.ikea.com/ca/en/p/borrby-lantern-for-block-candle-indoor-outdoor-black-10156109/)                                                                                                                                            | (9.99$ x 4) + 15%TPS et TVQ = 45.95$  |
-| [Plaque ronde en bois 1/2 x 32" x 32"](https://patrickmorin.com/fr/coupe-de-materiaux)                                                                                                                                                                | 44$ + 15%TPS et TVQ = 50.6$           |
+| [Extrusion d'aluminum](???) | ???           |
 | [4 rideaux/voilages blanc ](https://www.ikea.com/ca/fr/p/teresia-voilage-2-panneaux-blanc-90232331/)                                                                                                                                                  | (14,99$ x 4) + 15%TPS et TVQ = 68.95$ |
 | [Vignes articielles](https://www.amazon.ca/-/fr/artificielles-d%C3%A9coration-feuilles-suspendues-guirlande/dp/B08BZ6CNVP?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3MSBQ5ESVX8AF)                                                    | 11,99$ + 15%TPS et TVQ = 13.78$       |
 | [Régulateur de tension](https://addison-electronique.com/fr/regulateur-de-tension-positif-l7812cv-12-v-1-5-a-to-220.html)                                                                                                                             | 1,99$ + 15%TPS et TVQ = 2.29$        |
 | [8 Ampoules LEDs 9W DMX512](https://www.aliexpress.com/item/32626019053.html) | (23.79$ x 8) + 15%TPS et TVQ = 218.86$       |
 | [DMX 512 LED Transmitter](https://www.aliexpress.com/item/32626019053.html) | 18.99$ + 15%TPS et TVQ = 21.84$      |
 | [8 Rallonges de lanterne à suspendre 6m](https://www.amazon.ca/dp/B0BGN6K3ZD?sp_csd=d2lkZ2V0TmFtZT1zcF9ocXBfc2hhcmVk&th=1) | (15.99$ x 8) + 15%TPS et TVQ = 147.12$      |
-| **Total** | 739.41$ |
+| **Total** | 688.81$ |
 
 - 1 plaque acier inoxydable  
 - 4 lotus
