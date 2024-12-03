@@ -317,9 +317,11 @@ gantt
 | [Plaque ronde en bois 1/2 x 32" x 32"](https://patrickmorin.com/fr/coupe-de-materiaux)                                                                                                                                                                | 44$ + 15%TPS et TVQ = 50.6$           |
 | [4 rideaux/voilages blanc ](https://www.ikea.com/ca/fr/p/teresia-voilage-2-panneaux-blanc-90232331/)                                                                                                                                                  | (14,99$ x 4) + 15%TPS et TVQ = 68.95$ |
 | [Vignes articielles](https://www.amazon.ca/-/fr/artificielles-d%C3%A9coration-feuilles-suspendues-guirlande/dp/B08BZ6CNVP?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3MSBQ5ESVX8AF)                                                    | 11,99$ + 15%TPS et TVQ = 13.78$       |
-| [Régulateur de tension](https://addison-electronique.com/fr/regulateur-de-tension-positif-l7812cv-12-v-1-5-a-to-220.html)                                                                                                                             | 1,99 $ + 15%TPS et TVQ = 2.29$        |
+| [Régulateur de tension](https://addison-electronique.com/fr/regulateur-de-tension-positif-l7812cv-12-v-1-5-a-to-220.html)                                                                                                                             | 1,99$ + 15%TPS et TVQ = 2.29$        |
+| [8 Ampoules LEDs 9W DMX512](https://www.aliexpress.com/item/32626019053.html) | (23.79$ x 8) + 15%TPS et TVQ = 218.86$       |
+| [DMX 512 LED Transmitter](https://www.aliexpress.com/item/32626019053.html) | 18.99$ + 15%TPS et TVQ = 21.84$      |
+| [8 Rallonges de lanterne à suspendre 6m](https://www.amazon.ca/dp/B0BGN6K3ZD?sp_csd=d2lkZ2V0TmFtZT1zcF9ocXBfc2hhcmVk&th=1) | (15.99$ x 8) + 15%TPS et TVQ = 147.12$      |
 
-- 8 ampoules LED 
 - 1 plaque acier inoxydable  
 - 4 lotus
 
@@ -342,7 +344,7 @@ Une quantité supplémentaire de plusieurs matériaux pourrait être nécessaire
 ##### Sources potentielles de financement
 
 - **Bourse Perspective Québec**
-- **Montant accordé par le Cégep** : Fonds dédiés spécifiquement pour couvrir les coûts du projet, incluant les matériaux, équipements et autres besoins essentiels.
+- **Montant accordé par le Cégep** : Fonds dédiés spécifiquement pour couvrir les coûts du projet, incluant les matériaux, équipements et autres besoins essentiels (autour de **500$**)
 
 #### Faisabilité opérationnelle
 
