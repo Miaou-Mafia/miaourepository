@@ -310,24 +310,22 @@ gantt
 | Matériaux                                                                                                                                                                                                                                             | Prix                                  |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
 | [Tôle d'acier](https://www.homedepot.ca/produit/paulin-tle-dacier-de-24-x-24-po-de-calibre-22/1000861565?eid=PS_GOOGLE_D00_Corporate_GGL_Shopping_All-Products_All%20Products__PRODUCT_GROUP_pla-298495632901&pid=1000861565&store=7124&gad_source=4) | 24,97 $ + 15%TPS et TVQ  = 28.72$     |
+| 1 Plaque d'acier inoxydable | Prix à déterminer selon la construction |
 | [ARDUINO UNO R3 ATMEGA328P BOARD](https://www.digikey.ca/en/products/detail/arduino/A000066/2784006)                                                                                                                                                  | 34.87$                                |
 | [Plaque insolante](https://www.homedepot.ca/produit/handi-pac-panneau-isolant-rigide-en-mousse-de-polystyrne-expans-075-po-x-145-po-x-48-po-rsistance-thermique-de-281/1000137182?eid=PS_GO_140203__ALL_PLA-526641&pid=1000137182&store=7159)         | 17.29$ + 15%TPS et TVQ = 19.88$       |  | [Plante artificielle](https://www.ikea.com/ca/fr/p/fejka-plante-artificielle-fixation-murale-interieur-exterieur-vert-90546572/) | (4.99$ x 3) + 15%TPS et TVQ = 17.25$ |
 | [Fleur artificielle](https://www.ikea.com/ca/fr/p/smycka-fleur-artificielle-interieur-exterieur-plante-tropicale-bouquet-80562732/)                                                                                                                   | (3.99$ x 2) = 9.20$                   |
 | [Mousse verte artificielle](https://canada.michaels.com/product/moss-table-runner-by-ashland-10135021?com_id=pdp_AlsoLike&path=youMayAlsoLike)                                                                                                        | (21.99$ x 2) = 50.6$                  |
 | [YAGEO CFR-25JB-52-3M6](https://www.digikey.ca/en/products/detail/adafruit-industries-llc/1374/6238002)                                                                                                                                               | 0.16$                                 |
 | [Adafruit Industries LLC 1374](https://www.digikey.ca/en/products/detail/yageo/CFR-25JB-52-3M6/1467)                                                                                                                                                  | 9.43$                                 |
-| [4 lanternes](https://www.ikea.com/ca/en/p/borrby-lantern-for-block-candle-indoor-outdoor-black-10156109/)                                                                                                                                            | (9.99$ x 4) + 15%TPS et TVQ = 45.95$  |
-| [??? Barres d'extrusion d'aluminum](???) | ???           |
+| [3 lanternes](https://www.ikea.com/ca/en/p/borrby-lantern-for-block-candle-indoor-outdoor-black-10156109/)                                                                                                                                            | (9.99$ x 4) + 15%TPS et TVQ = 35.96$  |
 | [4 rideaux/voilages blanc ](https://www.ikea.com/ca/fr/p/teresia-voilage-2-panneaux-blanc-90232331/)                                                                                                                                                  | (14,99$ x 4) + 15%TPS et TVQ = 68.95$ |
+| [Papier crêpé](https://www.amazon.ca/-/fr/Sizzix-Surfacez-664669-Serenity-feuilles/dp/B09716W2Q3?ref_=Oct_d_otopr_d_6646465011_0&pd_rd_w=vc6uh&content-id=amzn1.sym.c8e7e75e-d76e-4f67-bacf-4e7f5fa2cf7b&pf_rd_p=c8e7e75e-d76e-4f67-bacf-4e7f5fa2cf7b&pf_rd_r=TP096KDMPW12V65JCAT2&pd_rd_wg=hcvO5&pd_rd_r=c8439248-4a4d-44f8-bbee-be3fa8ee1315&pd_rd_i=B09716W2Q3) | 21.51$ + 15%TPS et TVQ = 24.74$|
 | [Vignes articielles](https://www.amazon.ca/-/fr/artificielles-d%C3%A9coration-feuilles-suspendues-guirlande/dp/B08BZ6CNVP?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3MSBQ5ESVX8AF)                                                    | 11,99$ + 15%TPS et TVQ = 13.78$       |
 | [Régulateur de tension](https://addison-electronique.com/fr/regulateur-de-tension-positif-l7812cv-12-v-1-5-a-to-220.html)                                                                                                                             | 1,99$ + 15%TPS et TVQ = 2.29$        |
-| [8 Ampoules LEDs 9W DMX512](https://www.aliexpress.com/item/32626019053.html) | (23.79$ x 8) + 15%TPS et TVQ = 218.86$       |
+| [6 Ampoules LEDs 9W DMX512](https://www.aliexpress.com/item/32626019053.html) | (23.79$ x 8) + 15%TPS et TVQ = 164.04$       |
 | [DMX 512 LED Transmitter](https://www.aliexpress.com/item/32626019053.html) | 18.99$ + 15%TPS et TVQ = 21.84$      |
-| [8 Rallonges de lanterne à suspendre 6m](https://www.amazon.ca/dp/B0BGN6K3ZD?sp_csd=d2lkZ2V0TmFtZT1zcF9ocXBfc2hhcmVk&th=1) | (15.99$ x 8) + 15%TPS et TVQ = 147.12$      |
-| **Total** | 688.81$ |
-
-- 1 plaque acier inoxydable  
-- 4 lotus
+| [Paquet de 4 + 2 Rallonges de lanterne à suspendre 6m](https://www.amazon.ca/dp/B0BGN6K3ZD?sp_csd=d2lkZ2V0TmFtZT1zcF9ocXBfc2hhcmVk&th=1) | (15.99$ x 8) + 15%TPS et TVQ = 79.33$      |
+| **Total** | 554.98$ |
 
 ##### Développement et maintenance
 
