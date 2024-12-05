@@ -170,10 +170,13 @@ graph TD;
 ![plan_studio](https://github.com/user-attachments/assets/2313fe50-ddd7-4984-83d8-0811140726a0)
 
 ## Simulation
-![vue_cote_02 1](https://github.com/user-attachments/assets/60011e10-b004-40ea-b28f-5586596cd676)
-![vue_cote 1](https://github.com/user-attachments/assets/4a169cdd-96f5-4e62-98f0-458871891381)
-![vue_face 1](https://github.com/user-attachments/assets/a2ae02f7-6931-4c21-9297-0d50afd72e7b)
-![structure 1](https://github.com/user-attachments/assets/2b9d112a-8599-447b-a95a-1b5ec460c540)
+![simulation_01](https://github.com/user-attachments/assets/547c4f6e-e36c-4f10-9f92-4d6cafb2c7e3)
+![simulation_02_cote](https://github.com/user-attachments/assets/9eb5d3d4-2afb-4c0e-b6eb-507936e36430)
+![simulation_03](https://github.com/user-attachments/assets/fdf11282-87b8-46b2-84ff-bda4bc61da8c)
+![simulation_structure_04](https://github.com/user-attachments/assets/2577df27-2ffc-4291-981d-22baccae22dd)
+![simulation_05_haut](https://github.com/user-attachments/assets/9b4a44a6-837d-4553-89b9-76992acc9e0b)
+![structure_06](https://github.com/user-attachments/assets/47bc73cc-7da5-4473-9247-e4c1d13b7351)
+![simulation_07_stand](https://github.com/user-attachments/assets/2e45a8a2-b3ad-4636-980e-da45efbddf5f)
 
 ## Distribution des responsabilités
 | Tâches                   | Membre(s) de l'équipe |
