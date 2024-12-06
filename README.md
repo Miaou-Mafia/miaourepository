@@ -166,7 +166,6 @@ graph TD;
 ## Plantation
 ---
 ![Plantation éléments](assets/plantation-elements.jpg)
-![Studio](assets/plantation-studio.jpg)
 ![plan_studio](https://github.com/user-attachments/assets/2313fe50-ddd7-4984-83d8-0811140726a0)
 
 ## Simulation
