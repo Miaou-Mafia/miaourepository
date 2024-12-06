@@ -179,15 +179,15 @@ graph TD;
 ![simulation_07_stand](https://github.com/user-attachments/assets/2e45a8a2-b3ad-4636-980e-da45efbddf5f)
 
 ## Distribution des responsabilités
-| Tâches                   | Membre(s) de l'équipe |
-| ------------------------ | ------------------ |
-| Création sonore          | Audrey D.          |
-| Assemblage des lotus      | Camilia B. et Justine R. |
-| Programmation de la capacitance | Ihab M., Prethiah R. et Justine R |
-| Assemblage des lanternes | Camilia B. et Audrey D. |
-| Intégration des lumières | Ihab M., Prethiah R. et Justine R. |
-| Décorations | Camilia B. et Audrey D. |
-| Construction de la plaque métallique | Ihab M. et Prethiah R. |
+| Tâches                               | Membre(s) de l'équipe              |
+| ------------------------------------ | ---------------------------------- |
+| Création sonore                      | Audrey D.                          |
+| Assemblage des lotus                 | Camilia B. et Justine R.           |
+| Programmation de la capacitance      | Ihab M., Prethiah R. et Justine R  |
+| Assemblage des lanternes             | Camilia B. et Audrey D.            |
+| Intégration des lumières             | Ihab M., Prethiah R. et Justine R. |
+| Décorations                          | Camilia B. et Audrey D.            |
+| Construction de la plaque métallique | Ihab M. et Prethiah R.             |
 
 ##  Échéancier
 
@@ -214,18 +214,16 @@ gantt
 ---
 ### Équipements fournis par les artistes
 
-- 15-20 vignes artificielles en plastique 
-- 8 ampoules LED 
-- Mousse verte artificielle
-- 4 rideaux/voilages blancs 
-- plante artificielle/feuilles (quantité à déterminer, selon l’usage prévu)
-- 1 plaque en acier inoxydable 
-- 4 lanternes 
-- 4 lotus
+- 10-15 vignes artificielles en plastique 
+- 6 ampoules LED 
+- 2 rideaux/voilages blancs 
+- 1 plaque en métal
+- 2 lanternes 
+- 6 lotus
 - Régulateur de tension
 - Éléments de fixation
-- Plaque ronde en bois (épaisseur 1,5mm)
 - 1 Plaque isolante
+- 3 tuyaux en métal
   
 #### Capteurs et évaluation
 
@@ -285,13 +283,13 @@ gantt
 
 ##### Logiciels
 
-| Logiciels                                                                 | Matériaux                    | Interfaces utilisateurs                                     | Protocoles de communication                                             |
+| Logiciels                                                                | Matériaux                    | Interfaces utilisateurs                                     | Protocoles de communication                                             |
 | ------------------------------------------------------------------------ | ---------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------------------- |
 | [Reaper Version 6.13](https://www.reaper.fm/download-old.php?ver=6x)     | Arduino A000066              | Plaque métallique sensible au toucher                       | [Protocole  DMX](https://www.qlcplus.org/)                              |
 | [Arduino IDE 2.3.2](https://www.arduino.cc/en/software)                  | YAGEO CFR-25JB-52-3M6        | Éléments lumineux (Lotus et Lanternes)                      | [Protocole MIDI](https://www.tobias-erichsen.de/software/loopmidi.html) |
 | [Max Cycling 74 Version 8.6.2](https://cycling74.com/releases/max/8.6.2) | Adafruit Industries LLC 1374 | [Systèmes sonores immersifs](https://www.genelec.com/8040b) |
-| [QLC+ 4.13.1](https://www.qlcplus.org/forum/viewtopic.php?t=17417)       | 1 plaque en acier inoxydable    | Technologie capacitive (Adafruits et Arduino UNO R3)        |
-| [Plugdata v0.9.1](https://plugdata.org/download.html)                    |                              | Régulateur de tension                                       |
+| [QLC+ 4.13.1](https://www.qlcplus.org/forum/viewtopic.php?t=17417)       | 1 plaque métalique           | Technologie capacitive (Adafruits et Arduino UNO R3)        |
+| [Plugdata v0.9.1](https://plugdata.org/download.html)                    |                              | 3 tuyaux en métal                                           |
 
 #### Faisabilité économique
 
@@ -307,37 +305,29 @@ gantt
 
 *Payant si les artistes utilisent leur propre ordinateur personnel, ou possibilité d'utiliser gratuitement les ordinateurs fournis par TIM.
 
-| Matériaux                                                                                                                                                                                                                                             | Prix                                  |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
-| [Tôle d'acier](https://www.homedepot.ca/produit/paulin-tle-dacier-de-24-x-24-po-de-calibre-22/1000861565?eid=PS_GOOGLE_D00_Corporate_GGL_Shopping_All-Products_All%20Products__PRODUCT_GROUP_pla-298495632901&pid=1000861565&store=7124&gad_source=4) | 24,97 $ + 15%TPS et TVQ  = 28.72$     |
-| 1 Plaque d'acier inoxydable | Prix à déterminer selon la construction |
-| [ARDUINO UNO R3 ATMEGA328P BOARD](https://www.digikey.ca/en/products/detail/arduino/A000066/2784006)                                                                                                                                                  | 34.87$                                |
-| [Plaque isolante](https://www.homedepot.ca/produit/handi-pac-panneau-isolant-rigide-en-mousse-de-polystyrne-expans-075-po-x-145-po-x-48-po-rsistance-thermique-de-281/1000137182?eid=PS_GO_140203__ALL_PLA-526641&pid=1000137182&store=7159)         | 17.29$ + 15%TPS et TVQ = 19.88$       |  | [Plante artificielle](https://www.ikea.com/ca/fr/p/fejka-plante-artificielle-fixation-murale-interieur-exterieur-vert-90546572/) | (4.99$ x 3) + 15%TPS et TVQ = 17.25$ |
-| [Fleur artificielle](https://www.ikea.com/ca/fr/p/smycka-fleur-artificielle-interieur-exterieur-plante-tropicale-bouquet-80562732/)                                                                                                                   | (3.99$ x 2) = 9.20$                   |
-| [Mousse verte artificielle](https://canada.michaels.com/product/moss-table-runner-by-ashland-10135021?com_id=pdp_AlsoLike&path=youMayAlsoLike)                                                                                                        | (21.99$ x 2) = 50.6$                  |
-| [YAGEO CFR-25JB-52-3M6](https://www.digikey.ca/en/products/detail/adafruit-industries-llc/1374/6238002)                                                                                                                                               | 0.16$                                 |
-| [Adafruit Industries LLC 1374](https://www.digikey.ca/en/products/detail/yageo/CFR-25JB-52-3M6/1467)                                                                                                                                                  | 9.43$                                 |
-| [3 lanternes](https://www.ikea.com/ca/en/p/borrby-lantern-for-block-candle-indoor-outdoor-black-10156109/)                                                                                                                                            | (9.99$ x 4) + 15%TPS et TVQ = 35.96$  |
-| [4 rideaux/voilages blanc ](https://www.ikea.com/ca/fr/p/teresia-voilage-2-panneaux-blanc-90232331/)                                                                                                                                                  | (14,99$ x 4) + 15%TPS et TVQ = 68.95$ |
-| [Papier crêpé](https://www.amazon.ca/-/fr/Sizzix-Surfacez-664669-Serenity-feuilles/dp/B09716W2Q3?ref_=Oct_d_otopr_d_6646465011_0&pd_rd_w=vc6uh&content-id=amzn1.sym.c8e7e75e-d76e-4f67-bacf-4e7f5fa2cf7b&pf_rd_p=c8e7e75e-d76e-4f67-bacf-4e7f5fa2cf7b&pf_rd_r=TP096KDMPW12V65JCAT2&pd_rd_wg=hcvO5&pd_rd_r=c8439248-4a4d-44f8-bbee-be3fa8ee1315&pd_rd_i=B09716W2Q3) | 21.51$ + 15%TPS et TVQ = 24.74$|
-| [Vignes articielles](https://www.amazon.ca/-/fr/artificielles-d%C3%A9coration-feuilles-suspendues-guirlande/dp/B08BZ6CNVP?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3MSBQ5ESVX8AF)                                                    | 11,99$ + 15%TPS et TVQ = 13.78$       |
-| [Régulateur de tension](https://addison-electronique.com/fr/regulateur-de-tension-positif-l7812cv-12-v-1-5-a-to-220.html)                                                                                                                             | 1,99$ + 15%TPS et TVQ = 2.29$        |
-| [6 Ampoules LEDs 9W DMX512](https://www.aliexpress.com/item/32626019053.html) | (23.79$ x 8) + 15%TPS et TVQ = 164.04$       |
-| [DMX 512 LED Transmitter](https://www.aliexpress.com/item/32626019053.html) | 18.99$ + 15%TPS et TVQ = 21.84$      |
-| [Paquet de 4 + 2 Rallonges de lanterne à suspendre 6m](https://www.amazon.ca/dp/B0BGN6K3ZD?sp_csd=d2lkZ2V0TmFtZT1zcF9ocXBfc2hhcmVk&th=1) | (15.99$ x 8) + 15%TPS et TVQ = 79.33$      |
-| **Total** | 554.98$ |
+| Matériaux                                                                                                                                                                                                                                                                                                                                                          | Prix                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------- |
+| [Tôle d'acier](https://www.homedepot.ca/produit/paulin-tle-dacier-de-24-x-24-po-de-calibre-22/1000861565?eid=PS_GOOGLE_D00_Corporate_GGL_Shopping_All-Products_All%20Products__PRODUCT_GROUP_pla-298495632901&pid=1000861565&store=7124&gad_source=4)                                                                                                              | 24,97 $ + 15%TPS et TVQ  = 28.72$      |
+| [ARDUINO UNO R3 ATMEGA328P BOARD](https://www.digikey.ca/en/products/detail/arduino/A000066/2784006)                                                                                                                                                                                                                                                               | 34.87$                                 |
+| [Plaque isolante](https://www.homedepot.ca/produit/handi-pac-panneau-isolant-rigide-en-mousse-de-polystyrne-expans-075-po-x-145-po-x-48-po-rsistance-thermique-de-281/1000137182?eid=PS_GO_140203__ALL_PLA-526641&pid=1000137182&store=7159)                                                                                                                       | 17.29$ + 15%TPS et TVQ = 19.88$        |  | [Plante artificielle](https://www.ikea.com/ca/fr/p/fejka-plante-artificielle-fixation-murale-interieur-exterieur-vert-90546572/) | (4.99$ x 3) + 15%TPS et TVQ = 17.25$ |
+| [YAGEO CFR-25JB-52-3M6](https://www.digikey.ca/en/products/detail/adafruit-industries-llc/1374/6238002)                                                                                                                                                                                                                                                            | 0.16$                                  |
+| [Adafruit Industries LLC 1374](https://www.digikey.ca/en/products/detail/yageo/CFR-25JB-52-3M6/1467)                                                                                                                                                                                                                                                               | 9.43$                                  |
+| [2 lanternes](https://www.ikea.com/ca/en/p/borrby-lantern-for-block-candle-indoor-outdoor-black-10156109/)                                                                                                                                                                                                                                                         | (9.99$ x 4) + 15%TPS et TVQ = 35.96$   |
+| [2 rideaux/voilages blanc ](https://www.ikea.com/ca/fr/p/teresia-voilage-2-panneaux-blanc-90232331/)                                                                                                                                                                                                                                                               | (14,99$ x 2) + 15%TPS et TVQ = 34.47$  |
+| [Papier crêpé](https://www.amazon.ca/-/fr/Sizzix-Surfacez-664669-Serenity-feuilles/dp/B09716W2Q3?ref_=Oct_d_otopr_d_6646465011_0&pd_rd_w=vc6uh&content-id=amzn1.sym.c8e7e75e-d76e-4f67-bacf-4e7f5fa2cf7b&pf_rd_p=c8e7e75e-d76e-4f67-bacf-4e7f5fa2cf7b&pf_rd_r=TP096KDMPW12V65JCAT2&pd_rd_wg=hcvO5&pd_rd_r=c8439248-4a4d-44f8-bbee-be3fa8ee1315&pd_rd_i=B09716W2Q3) | 21.51$ + 15%TPS et TVQ = 24.74$        |
+| [Vignes articielles](https://www.amazon.ca/-/fr/artificielles-d%C3%A9coration-feuilles-suspendues-guirlande/dp/B08BZ6CNVP?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3MSBQ5ESVX8AF)                                                                                                                                                                 | 11,99$ + 15%TPS et TVQ = 13.78$        |
+| [Régulateur de tension](https://addison-electronique.com/fr/regulateur-de-tension-positif-l7812cv-12-v-1-5-a-to-220.html)                                                                                                                                                                                                                                          | 1,99$ + 15%TPS et TVQ = 2.29$          |
+| [6 Ampoules LEDs 9W DMX512](https://www.aliexpress.com/item/32626019053.html)                                                                                                                                                                                                                                                                                      | (23.79$ x 8) + 15%TPS et TVQ = 164.04$ |
+| [DMX 512 LED Transmitter](https://www.aliexpress.com/item/32626019053.html)                                                                                                                                                                                                                                                                                        | 18.99$ + 15%TPS et TVQ = 21.84$        |
+| [Paquet de 4 + 2 Rallonges de lanterne à suspendre 6m](https://www.amazon.ca/dp/B0BGN6K3ZD?sp_csd=d2lkZ2V0TmFtZT1zcF9ocXBfc2hhcmVk&th=1)                                                                                                                                                                                                                           | (15.99$ x 8) + 15%TPS et TVQ = 79.33$  |
+| **Total**                                                                                                                                                                                                                                                                                                                                                          | 469.51$                                |
 
 ##### Développement et maintenance
 
 Une quantité supplémentaire de plusieurs matériaux pourrait être nécessaire en cours de route du projet:
 
 - [Adafruit Industries LLC 1374](https://www.digikey.ca/en/products/detail/yageo/CFR-25JB-52-3M6/1467) 
-- [Fleur artificielle](https://www.ikea.com/ca/fr/p/smycka-fleur-artificielle-interieur-exterieur-plante-tropicale-bouquet-80562732/) 
-- [Mousse verte artificielle](https://canada.michaels.com/product/moss-table-runner-by-ashland-10135021?com_id=pdp_AlsoLike&path=youMayAlsoLike)   
-- Ampoules LED 
-- [Plaque ronde en bois 1/2 x 32" x 32"](https://patrickmorin.com/fr/coupe-de-materiaux)
-- Tissus pour les lotus
-- [4 rideaux/voilages blancs ](https://www.ikea.com/ca/fr/p/teresia-voilage-2-panneaux-blanc-90232331/)    
+- [Papier crêpé](https://www.amazon.ca/-/fr/Sizzix-Surfacez-664669-Serenity-feuilles/dp/B09716W2Q3?ref_=Oct_d_otopr_d_6646465011_0&pd_rd_w=vc6uh&content-id=amzn1.sym.c8e7e75e-d76e-4f67-bacf-4e7f5fa2cf7b&pf_rd_p=c8e7e75e-d76e-4f67-bacf-4e7f5fa2cf7b&pf_rd_r=TP096KDMPW12V65JCAT2&pd_rd_wg=hcvO5&pd_rd_r=c8439248-4a4d-44f8-bbee-be3fa8ee1315&pd_rd_i=B09716W2Q3)
 - [Vignes artificielles](https://www.amazon.ca/-/fr/artificielles-d%C3%A9coration-feuilles-suspendues-guirlande/dp/B08BZ6CNVP?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3MSBQ5ESVX8AF)                                                    
 - Éléments de fixation
 
@@ -360,7 +350,7 @@ Une quantité supplémentaire de plusieurs matériaux pourrait être nécessaire
 
 ##### Gestion du changement
 
-- **Intégration des nouvelles technologies** : Planifier comment l'introduction des capteurs capacitifs et des nouveaux logiciels (Max, QLC+) affectera les opérations quotidiennes.
+- **Intégration des nouvelles technologies** : Planifier comment l'introduction des capteurs capacitifs et des logiciels (Max, QLC+) affectera les opérations.
 - **Accompagnement des membres de l’équipe** : Offrir un soutien pour l’adoption des outils et procédures.
 
 ##### Support et maintenance
@@ -422,7 +412,7 @@ Une quantité supplémentaire de plusieurs matériaux pourrait être nécessaire
   - **Plan d'urgence** : Utiliser des ampoules LED basse consommation et prévoir une isolation thermique autour des fleurs artificielles.
 
 - **Bris de la structure octogonale lors de l’installation** : 
-  - La structure octogonale pourrait être endommagée ou mal alignée durant son installation au plafond.  
+  - La structure pourrait être endommagée ou mal alignée durant son installation au plafond.  
   - **Plan d'urgence** : Prévoir des outils de levage adaptés et renforcer la structure avec des matériaux résistants.
 
 ##### Risques liés aux connaissances techniques
